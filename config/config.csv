@@ -1,0 +1,5 @@
+测试脚本路径,测试脚本文件名,是否需要执行,num
+F:\interfcaeframwork\script\ind_interface\,test_update_v3.py,Yes,2
+F:\interfcaeframwork\script\ind_interface\,test_update_v2.py,No,1
+F:\interfcaeframwork\script\ind_interface\,test_update_v4.py,Yes,3
+F:\interfcaeframwork\script\ind_interface\,test_update_v1.py,No,4

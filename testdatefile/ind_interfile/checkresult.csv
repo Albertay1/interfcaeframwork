@@ -1,0 +1,6 @@
+ray,username,用户名已经存在,测试通过
+ray1111,username,校验成功,测试通过
+798134093@qq.com,email,用户名已经存在,测试失败
+79813409@qq.com,email,校验成功,测试通过
+79813409456@qq.com,email,校验成功,测试通过
+798134094@qq.com,email,用户名已经存在,测试失败

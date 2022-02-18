@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config/config.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testdatefile/ind_interfile/checkresult.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testdatefile/ind_interfile/checktest.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testdatefile/ind_interfile/test_updateuser.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testdatefile/ind_interfile/test_updateuser3.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testdatefile/ind_interfile/work_test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testdatefile/ind_interfile/workflow_test.csv" charset="GBK" />
+  </component>
+</project>

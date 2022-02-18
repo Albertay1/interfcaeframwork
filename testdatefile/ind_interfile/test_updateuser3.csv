@@ -1,0 +1,13 @@
+http://129.211.129.101:9006/user/login.do,,2,username,ray0001,password,123456,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,1,email,123455@qq.com,,,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,1,email,123465@qq.com,,,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,1,phone,15255213333,,,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,1,answer,秦砖,,,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,1,question,最喜欢看的书,,,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,2,email,123470@qq.com,phone,15255213333,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,2,answer,苹果,question,最喜欢的水果,,,,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,4,email,123468@qq.com,phone,15255213333,answer,苹果,question,最喜欢的水果
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,4,email,123471@qq.com,phone,,answer,苹果,question,最喜欢的水果
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,4,email,123472@qq.com,phone,15255213333,answer,,question,最喜欢的水果
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,4,email,123473@qq.com,phone,15255213333,answer,苹果,question,
+http://129.211.129.101:9006/user/update_information.do,更新个人信息成功,1,email,123465@qq.com,,,,,,
